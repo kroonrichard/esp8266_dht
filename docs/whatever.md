@@ -7,3 +7,5 @@ We doorlopen de volgende stappen:
 Informatie hierover is te vinden op de [Arduino site](https://www.arduino.cc/en/Serial/Print)
 
 Voor diegene die geen ervaring hebben met soortgelijke omgeving en het niet direct voorelkaar dan kun je master van dit project clonen en het project importeren.
+
+Klaar ga verder naar het [testen van de sensor](testen_sensor.md)
