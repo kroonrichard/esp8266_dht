@@ -4,7 +4,7 @@ Tja gemakkelijker kunnen we het niet maken. De uitgebreide documentatie van de
 [arduino/esp8266](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
 core geeft je een voorbeeld.
 
-Wijzig het AP-gegevens wel even voordat je de code flashed.
+Wijzig de AP-gegevens wel even voordat je de code flasht.
 
 Oh ja de output in de serial monitor is waarschijnlijk niet te lezen.
 Je moet vast nog iets aanpassen!!!
