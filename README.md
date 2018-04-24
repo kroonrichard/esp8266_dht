@@ -25,4 +25,4 @@ Voor diegene die het leuk vindt kun je daar ook lezen hoe je Micro Python of Nod
 
 Informatie over de ESP8266(EX) kun je vinden op de [Espressif site](https://www.espressif.com/en/products/hardware/esp8266ex/overview)
 
-Als je denkt dat je alles hebt kun je verder met het [testen van je inrichting](docs/whatever.md))
+Als je denkt dat je alles hebt kun je verder met het [testen van je inrichting](docs/whatever.md)
