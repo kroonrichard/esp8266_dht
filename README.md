@@ -3,8 +3,9 @@
 ## Wat heb je nodig
 - Een Wemos D1 Mini Pro (die heb je als het goed is gekregen)
 - Een usb-kabel voor je laptop met een micro-USB aansluiting
+- Visual Studio Code
 - PlatformIO of de Arduino IDE
-- De USB-drivers
+- De USB-driver voor het flashen van de Wemos D1 Mini Pro
 
 ### Arduino IDE of PlatformIO
 Je kunt zelf besluiten welke IDE je wilt gebruiken. Mijn voorkeur gaat uit naar PlatformIO maar je mag ook de Arduino IDE gebruiken.

@@ -20,4 +20,7 @@ image gebruiken. Voor het gebruik van websockets moet je dan wel het een en ande
 Er is een eenvoudige nodejs applicatie beschikbaar om mee te testen. Clone het github project
 [kroonrichard/nodejs_mqtt_example](https://github.com/kroonrichard/nodejs_mqtt_example)
 
+Voor het runnen van de applicatie heb je [nodejs](https://nodejs.org/en/) nodig.
+Als IDE raad ik [Visual Studio Code](https://code.visualstudio.com/) aan.
+
 Leef je uit en/of vervolg met [verbind de sensor met het netwerk](ip_setup.md)
