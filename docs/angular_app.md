@@ -37,7 +37,7 @@ export const MQTT_SERVICE_OPTIONS: IMqttServiceOptions = {
 };
 ```
 
-De laatste toevoeging aan app.module.ts maakt inject van de service mogelijk in de componenten.
+De laatste toevoeging aan app.module.ts maakt inject van de service mogelijk.
 
 ```typescript
 export function mqttServiceFactory() {
@@ -81,6 +81,12 @@ constructor(private mqttService: MqttService){
 }
 ```
 Je zult nog iets met de variabelen, topics en de imports moeten doen !!! Als je dat gedaan hebt moet alles werken. Opslaan en kijken.
+
+## Als je het niet aan de gang krijgt
+
+Een werkende versie van de code is beschikbaar in de git repository [kroonrichard/temp-app](https://github.com/kroonrichard/temp-app).
+
+En meer heb ik niet voor vanavond !!!!!
 
 ## Suggesties voor de volgende keer
 - Een client in spring
