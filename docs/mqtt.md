@@ -7,7 +7,7 @@ onze sensor.
 Iemand (ik) heeft een MQTT broker opgezet waar berichten naar toe gestuurd
 kunnen worden. Als je je eigen broker op wilt zetten dan raad ik je aan om de
 volgende [docker image](https://hub.docker.com/r/toke/mosquitto/) te gebruiken.
-Deze is oud maar heeft ook de websocket aanstaan.
+Deze is oud maar heeft ook een websocket openstaan.
 
 Wie docker heeft:
 

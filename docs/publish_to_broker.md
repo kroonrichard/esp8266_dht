@@ -6,7 +6,7 @@ We doorlopen de volgende stappen:
 - Werk de nodejs programmatuur bij om de berichten van de juiste topic te lezen.
 
 ## De PubSubClient
-Het bij de library meegeleverde code werkt niet voor ons kaartje gebruik [dit voorbeeld](https://github.com/knolleary/pubsubclient/blob/master/examples/mqtt_esp8266/mqtt_esp8266.ino)
+De bij de library meegeleverde code werkt niet voor ons kaartje gebruik [dit voorbeeld](https://github.com/knolleary/pubsubclient/blob/master/examples/mqtt_esp8266/mqtt_esp8266.ino)
 voor de implementatie
 
 ## Even helpen
