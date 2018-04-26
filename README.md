@@ -8,7 +8,7 @@
 - De USB-driver voor het flashen van de Wemos D1 Mini Pro
 
 ### Arduino IDE of PlatformIO
-Je kunt zelf besluiten welke IDE je wilt gebruiken. Mijn voorkeur gaat uit naar PlatformIO maar je mag ook de Arduino IDE gebruiken.
+Je kunt zelf besluiten welke IDE je wilt gebruiken. Mijn voorkeur gaat uit naar PlatformIO maar je mag ook de Arduino IDE gebruiken (De installatie is makkelijke blijkt).
 
 De Arduino IDE en PlatformIO maken beide gebruik van dezelfde stack maar de integratie van PlatformIO met de software stack is beter en het werken met 'in project' libraries is veel gemakkelijker.
 
